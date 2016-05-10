@@ -78,7 +78,7 @@ cat << EOF > /etc/puppet/puppet.conf
     server = puppet
     report = true
     pluginsync = true
-    environment = corp
+    environment = staging
 EOF
 
 echo "Done"
