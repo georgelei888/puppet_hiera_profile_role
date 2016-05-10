@@ -1,0 +1,6 @@
+---
+classes:
+  - role::testmachine
+
+profile::common_mac::password:  "Some Random Hash"
+profile::common_mac::salt:      "Some Salt values assocaite with this password"

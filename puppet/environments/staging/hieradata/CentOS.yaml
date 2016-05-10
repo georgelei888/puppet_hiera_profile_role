@@ -1,0 +1,5 @@
+---
+classes:
+  - role::linux
+
+profile::common_linux::sshkey: "Some public Key"
